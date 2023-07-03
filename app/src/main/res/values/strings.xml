@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PvsZ</string>
+    <string name="zombie_picture">Picture of a zombie</string>
+    <string name="zombie_ability_label">Ability: \n </string>
+    <string name="zombie_description_label">Description: \n</string>
+    <string name="zombie_name_label">Name:</string>
+    <string name="channel_name">Plants vs. Zombies Notifications</string>
+    <string name="channel_description">Receive notifications related to Plants vs. Zombies game</string>
+
+
+    <string name="zombie_toughness_label">Toughness: \n</string>
+    <string name="plant_recharge_label">Recharge: \n</string>
+    <string name="plant_damage_label">"Damage: "</string>
+    <string name="plant_terrain_label">"Level: "</string>
+    <string name="plant_cost_label">"Cost: "</string>
+
+</resources>

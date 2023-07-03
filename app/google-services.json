@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876456662293",
+    "project_id": "pvzproject-40c15",
+    "storage_bucket": "pvzproject-40c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876456662293:android:67cdf981d3cc09092a051c",
+        "android_client_info": {
+          "package_name": "com.example.pvzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876456662293-fs3vkd2b2voa6p0os9bhna77klmfjbab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ88RZzokc6NeiwYwzNSeckyw5stDKqoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876456662293-fs3vkd2b2voa6p0os9bhna77klmfjbab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
